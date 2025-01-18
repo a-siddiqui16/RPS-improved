@@ -1,0 +1,6 @@
+Player score: 1
+Computer score: 0
+Player score: 0
+Computer score: 1
+Player score: 1
+Computer score: 0
